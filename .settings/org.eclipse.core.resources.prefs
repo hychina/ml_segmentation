@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//data/simp/test_simp.data=UTF-8
+encoding//data/simp/train_simp.data=UTF-8
+encoding//data/trad/test_trad.data=UTF-16LE
+encoding//data/trad/train_trad.data=UTF-16LE
+encoding//test_trad/crf_result_test_trad.data=UTF-8
+encoding//test_trad/crf_test_trad.data=UTF-8
+encoding//test_trad/crf_train_trad.data=UTF-8
+encoding//valid_trad/crf_test.data=UTF-8
+encoding//valid_trad/crf_train.data=UTF-8
+encoding//valid_trad/test.txt=UTF-8
+encoding//valid_trad/train.txt=UTF-8
+encoding/<project>=UTF-8
